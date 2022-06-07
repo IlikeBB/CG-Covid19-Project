@@ -1,4 +1,4 @@
-# CG-Covid19-Project
+# CG-Covid19-Project [machine learning 1000 gene length]
 
 ## Env Preparing
 ```
