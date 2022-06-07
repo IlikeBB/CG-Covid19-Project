@@ -17,4 +17,5 @@ None
 
 ##  Results
 >* Shap Value
+<p>
 <img src='https://github.com/IlikeBB/CG-Covid19-Project/blob/main/ml(1000)_gene_experiment/Integer.jpg'></p>
