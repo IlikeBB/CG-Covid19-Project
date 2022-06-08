@@ -1,5 +1,7 @@
 # CG-Covid19-Project
 ## Build Virtual Environment (Using Conda)
+>* `Ubuntu 18.04`
+>* `Python > 3.6`
 
 ```
 !conda None
