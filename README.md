@@ -4,8 +4,8 @@
 >* `Python > 3.6`
 >* `cpu or cuda(10.2)`
 
->* `!conda None`
->* `!conda activate None`
+>* `!conda env create -f  covid.yaml`
+>* `!conda activate covid`
 ## Deep Learning and DeepInSight (DeepFeature)
 #### <a href='https://github.com/IlikeBB/CG-Covid19-Project/tree/main/ml(1000)_gene_experiment'> Machine Learning 1000 gene length project</a>
 
