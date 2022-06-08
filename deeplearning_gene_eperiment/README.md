@@ -5,13 +5,7 @@ OS: Ubuntu 18.04
 CUDA: 10.1
 GPU: Nvidia GTX 1080Ti x 1
 ```
-## Build Virtual Environment (Using Conda)
 
-```
-!conda env create -f environment.yml
-
-!conda activate deepinsightlearning
-```
 ## Model Architecture
 <img src='https://github.com/IlikeBB/GISAID-Sequnce-DeepInSight-Deeplearning/blob/main/DeepInSight.png'  style="background-color:red;">
 
