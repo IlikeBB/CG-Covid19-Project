@@ -4,8 +4,10 @@
 > * run data_pcoress.ipynb
 
 ## Start Training.
-> * run train_val.py
+> * run main.ipynb
 
+## Start Test.
+> * run test.ipynb
 
 ##  Results
 >* Shap Value
