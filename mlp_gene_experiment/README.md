@@ -12,4 +12,4 @@
 ##  Results
 >* Shap Value
 <p>
-<img src='https://github.com/IlikeBB/CG-Covid19-Project/blob/main/ml(1000)_gene_experiment/Integer.jpg'></p>
+<img src='https://github.com/IlikeBB/CG-Covid19-Project/blob/main/mlp_gene_experiment/scratch2.png'></p>
