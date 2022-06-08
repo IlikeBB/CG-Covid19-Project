@@ -3,8 +3,8 @@
 >* `Ubuntu 18.04`
 >* `Python > 3.6`
 
-`!conda None`
-`!conda activate None`
+>* `!conda None`
+>* `!conda activate None`
 ## Deep Learning and DeepInSight (DeepFeature)
 #### <a href='https://github.com/IlikeBB/CG-Covid19-Project/tree/main/ml(1000)_gene_experiment'> Machine Learning 1000 gene length project</a>
 
