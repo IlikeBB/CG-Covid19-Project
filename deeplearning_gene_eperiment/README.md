@@ -7,7 +7,7 @@ GPU: Nvidia GTX 1080Ti x 1
 ```
 
 ## Model Architecture
-<img src='https://github.com/IlikeBB/GISAID-Sequnce-DeepInSight-Deeplearning/blob/main/DeepInSight.png'  style="background-color:red;">
+<img src='https://github.com/IlikeBB/CG-Covid19-Project/blob/main/deeplearning_gene_eperiment/DeepInSight.png'  style="background-color:red;">
 
 ## Data Preparing
 > * Please refer to `deepinsight-generate_image.ipynb`
