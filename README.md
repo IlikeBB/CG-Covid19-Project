@@ -2,6 +2,7 @@
 ## Build Virtual Environment (Using Conda)
 >* `Ubuntu 18.04`
 >* `Python > 3.6`
+>* `cpu or cuda(10.2)`
 
 >* `!conda None`
 >* `!conda activate None`
